@@ -1,4 +1,4 @@
-# Seattle-Airbnb
+# Seattle Airbnb Project
 
 
 ### Table of Contents
