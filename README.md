@@ -12,7 +12,7 @@
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python 3.
 
 ### Project Motivation
-For this project, I was interestested in using Seattle Airbnb data from 2016 and 2017 to better understand:
+For this project, I was interestested in using Seattle Airbnb data from Jan 2016 to Feb 2017 to better understand:
 
 1. What are the top 5 expensive neighbourhoods?
 2. What are the top 5 expensive hosts?
