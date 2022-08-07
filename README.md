@@ -16,7 +16,7 @@ For this project, I was interestested in using Seattle Airbnb data from Jan 2016
 
 1. What are the top 5 expensive neighbourhoods?
 2. What are the top 5 expensive hosts?
-3. Price Prediction
+3. Examine linear regression model for price prediction.
 
 
 The full set of files related to this course are owned by Kaggle ([Visit Website](https://www.kaggle.com/datasets/airbnb/seattle)).
