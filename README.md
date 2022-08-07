@@ -27,7 +27,7 @@ There is one notebooks available here to showcase work related to the above ques
 
 
 ### Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at recap section in the end of the Jupyter at Seattle Airbnb Project.ipynb.
 
 ### Licensing, Authors, Acknowledgements
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle ([Visit Website](https://www.kaggle.com/datasets/airbnb/seattle)). Otherwise, feel free to use the code here as you would like!
